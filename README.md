@@ -5,7 +5,9 @@
 
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" href="https://www.linkedin.com/in/ankit-khandelwal-726a0b196/"/>
+ <a href="https://www.linkedin.com/in/ankit-khandelwal-726a0b196/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 - 👀 I’m interested in ...
