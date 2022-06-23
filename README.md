@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+![Profile views](https://gpvc.arturio.dev/ankitkhandelwal2601)  
+
 👋 Hi, I’m Ankit Khandelwal
 
 
