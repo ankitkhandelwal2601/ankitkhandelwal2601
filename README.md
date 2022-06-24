@@ -25,8 +25,11 @@
   <a href="https://kotlinlang.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   </a>   
+  <a href="https://developer.android.com/docs">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
+  </a>
   <a href="https://www.figma.com/">
-    <img src="https://github.com/devicons/devicon/edit/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   </a>  
   <a href="https://www.w3schools.com/css/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
