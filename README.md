@@ -4,7 +4,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/ankitkhandelwal2601)  
 
-👋 Hi, I’m Ankit Khandelwal
+👋 Hi, I’m Ankit Khandelwal.
 
 
 <div id="badges">
