@@ -13,7 +13,7 @@
  </a>
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages & Tools :
 
 <div>
   <a href="https://dev.java/learn/">
